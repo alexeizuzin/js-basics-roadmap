@@ -1,0 +1,21 @@
+
+HTML
+- A
+- DIV
+  - ONCLICK
+- STYLE
+- SCRIPT
+
+CSS
+- POSITION: ABSOLUTE
+  - TOP %
+  - LEFT %
+- BACKGROUND
+- COLOR
+
+JS
+- FUNCTION
+- LET (int, str)
+- DOCUMENT>getElementById
+- IF
+- SETINTERVAL
